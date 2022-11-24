@@ -1,49 +1,46 @@
 # Bhuku retsumo 
 # A curated list of Shona Proverbs
-Kuti Mbudzi kudya mufenje ufanan'ina zvinomboreviko?
-Ko tsumo yekuti 'dzimachimbochimbo akafara' inopedziswa ichinzi chii?
-Nedzimwewo dzamunoziva sedzekuti kure kwegava ndokusina mutsubvu,
-Ko vakuru pavakati  Ateya mariva murutsva haachatyi kusviba magaro vaimborevei?
-Uye zvakafanana here nekuti apunyaira haashayi misodzi.
-Ko kana zvichinzi akanga nyimo avangarara zvinenge zvichimborevei?
-Chirema chine mazano chinotamba chakazendamira madziro
-Saka kuti mbudzi inodyira payakasungirirwa zvinotoreva here kuti vanhu 
-tinofanira kuti huori kumabasa uku?
-Mbudzi kuzvarira pamhene hanzi nditandirwe imbwa
-Chinono chinengw, gava rakadya richifamba
-Zviya tati kure kwegava ndookusina mutsvubvu! 
-Zviro zviedzwa Trevour akanyora bhuku reshona!
-Manomano emuroyi, kusvetuka dzvinju iye muchuuno akasunga nyoka
-Ko handiti iyo nyoka haiyerwi negavi iyo iripo
-Vuzivi wenzira yepa ruvare ndiye mufambi wayo
-Fungira mumoyo rwendo rwemba
-Shona is the only subject where all you need is an o-level to be allowed
-in the conversation
-charovedera charovedzera bere rakadya richifamba 
-chisi hachiyeri musi wacharimwa
-takabva nako kumbunga hakuna ipwa, or takabva nako kuweb-dev hakuna mari
-zingizi gonyera pamwe, maruva enyika haaperi
-murombo haarovi chinenguwo
-afamba apota, kukwira gomo kupoterera
-pano rairwa mwana wamambo muranda teerera
-mwana wamambo muranda kumwe
-chinoziva ivhu kuti kwana wegonzi anorwarara
-mwana asinga chemi anofira mumbereko
-moyo muti unomera paunoda
-chinokanganwa idemo
-chara chimwe hachitswanyi inda, or coin one haririre
-kutsa kwendebvu vakuru vanodzimurana
-kangoma kanoririsa kana kave kuda kuparuka 
-kandiro kano enda kunobva kamwe 
-kamoto kambeveve kano vesa matanda mberi, its a slippery slop
-chisingaperi chinoshura, infinite loops crash program?
-mwana ndiye anodya nyimo asi 
-kugocha kunoda kwaamai kwemwana kunodzimura moto
-mombe yekukwereta kama wakaringa nzira 
-
-wakakwira mugombo uchitsvaga makudo unomawana, or don´t look for messages
-that show that he is cheating, because you will find them.
-inemarava ayo
-zvikoni zvikoni mimba haibviswe negosoro
-fungira mumoyo rwendo rwemba
-mugoni wemwana ndiye asinaye
+1. Kuti Mbudzi kudya mufenje ufanan'ina zvinomboreviko?  
+2. Ko tsumo yekuti 'dzimachimbochimbo akafara' inopedziswa ichinzi chii? 
+3. Nedzimwewo dzamunoziva sedzekuti kure kwegava ndokusina mutsubvu, 
+4. Ko vakuru pavakati  Ateya mariva murutsva haachatyi kusviba magaro vaimborevei? 
+5. Uye zvakafanana here nekuti apunyaira haashayi misodzi. 
+6. Ko kana zvichinzi akanga nyimo avangarara zvinenge zvichimborevei?  
+7. Chirema chine mazano chinotamba chakazendamira madziro  
+8. Saka kuti mbudzi inodyira payakasungirirwa zvinotoreva here kuti vanhu tinofanira kuti huori kumabasa uku? 
+9. Mbudzi kuzvarira pamhene hanzi nditandirwe imbwa  
+10. Chinono chinengw, gava rakadya richifamba 
+11. Zviya tati kure kwegava ndookusina mutsvubvu!  
+12. Zviro zviedzwa Trevour akanyora bhuku reshona!  
+13. Manomano emuroyi, kusvetuka dzvinju iye muchuuno akasunga nyoka 
+14. Ko handiti iyo nyoka haiyerwi negavi iyo iripo  
+15. Vuzivi wenzira yepa ruvare ndiye mufambi wayo 
+16. Fungira mumoyo rwendo rwemba  
+- Shona is reall ythe only subject where all you need is an o-level to be allowed in the conversation 
+17. charovedera charovedzera bere rakadya richifamba   
+18. chisi hachiyeri musi wacharimwa 
+19. takabva nako kumbunga hakuna ipwa, or takabva nako kuweb-dev hakuna mari  
+20. zingizi gonyera pamwe, maruva enyika haaperi  
+21. murombo haarovi chinenguwo  
+22. afamba apota, kukwira gomo kupoterera 
+23. pano rairwa mwana wamambo muranda teerera 
+24. mwana wamambo muranda kumwe 
+25. chinoziva ivhu kuti kwana wegonzi anorwarara  
+26. mwana asinga chemi anofira mumbereko  
+27. moyo muti unomera paunoda 
+28. chinokanganwa idemo 
+29. chara chimwe hachitswanyi inda, or coin one haririre  
+30. kutsa kwendebvu vakuru vanodzimurana  
+31. kangoma kanoririsa kana kave kuda kuparuka   
+32. kandiro kano enda kunobva kamwe  
+33. kamoto kambeveve kano vesa matanda mberi, its a slippery slop 
+34. chisingaperi chinoshura, infinite loops crash program?  
+35. mwana ndiye anodya nyimo asi   
+36. kugocha kunoda kwaamai kwemwana kunodzimura moto  
+37. mombe yekukwereta kama wakaringa nzira   
+38. wakakwira mugombo uchitsvaga makudo unomawana, or don´t look for messages that show that he is cheating, because you will find them.  
+39. Inemarava ayo 
+40. hanzi mavara angu azara jecha
+41. zvikoni zvikoni mimba haibviswe negosoro
+42. fungira mumoyo rwendo rwemba
+43. mugoni wemwana ndiye asinaye  
